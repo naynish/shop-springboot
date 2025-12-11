@@ -1,0 +1,1 @@
+A minimal viable product (MVP) for an e-commerce application built with Java and Spring Boot.
